@@ -5,9 +5,9 @@ Using technical analysis in excel to analyze fundraising outcomes, and efforts f
 
 I. Overview of the Project/Purpose
 
-    The overview of this project was to analyze data, and conclude the following results based on several different outcomes. The following outcomes being discussed were based upon the following:successful, failure, or canceled. In order to understand why such outcomes were of the following three that were mentioned, it is significant filter out the amounts which is essential for making conclusions. 
+    The overview of this project was to analyze data, and conclude the following results based on several different outcomes. The following outcomes being discussed were based upon the following:successful, failure, or canceled. In order to understand why such outcomes were of the following three that were mentioned, it is significantto filter out the amounts which is essential for making conclusions. 
 
-    The purpose of the project was to visualize campaign outcomes based on launch dates ad funding goals
+    The purpose of the project was to visualize campaign outcomes based on launch dates and funding goals.
 
 II. Analysis and Challenges
    In order to complete the project, it was essential to review module 1 and take notes on the different functions being used in order to get the data needed to create charts. One of the challenges of completing the assignment was inserting pivot tables. The purpose of pivot tables first of all, are to condense data into a summary to deliver information. Understanding what is filtered, and what will the outcome be displayed as is crucial. In order to overcome this challenge, I have redone the module that includes the following videos on how to complete this part of the project. To complete the following charts which conclude the following information, additional columns needed to be created in order to separate the parent category and subcategory of outcomes. To summarize the success, failure, and cancellation of outcomes in each categories for different years, it was essential to use the "=year()." The other part of the project involving finding on the percentages of success, failure, and cancellation of "Outcomes Based on Goals," the "countifs()" function was used to populate the following outcomes as well as indicating which category the outcomes summarize. 
